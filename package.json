@@ -1,0 +1,15 @@
+{
+  "name": "obsidium-api-gateway",
+  "version": "1.0.0",
+  "description": "GatewayAPI ",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "express-http-proxy": "^1.6.0",
+    "helmet": "^3.21.2",
+    "http": "^0.0.0",
+    "morgan": "^1.9.1"
+  }
+}
