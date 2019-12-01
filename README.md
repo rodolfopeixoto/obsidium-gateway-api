@@ -2,11 +2,13 @@
 
 Importante configurar o `.env`
 
+* Importante clonar todos os microsserviços
+
 #### Docker com todos os microserviços
 
 [https://github.com/rodolfopeixoto/obsidium-docker-compose-nodejs](https://github.com/rodolfopeixoto/obsidium-docker-compose-nodejs)
 
-Testar
+Efetuar os testes
 
 ```
 http://localhost:8080/users ou http://localhost:8080/stories
